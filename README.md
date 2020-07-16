@@ -1,4 +1,8 @@
-### Hi there 👋
+### Duck Video AVI
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VbYcOdVX_Bo
+" target="_blank"><img src="http://img.youtube.com/vi/VbYcOdVX_Bo/0.jpg" 
+ width="240" height="180" border="10" /></a>
 
 <!--
 **DiegoFleitas/DiegoFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

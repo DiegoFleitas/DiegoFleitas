@@ -1,6 +1,8 @@
 ### Gohans Whistle
 
-![Gohans Whistle](https://j.gifs.com/wVDxKM.gif)](https://www.youtube.com/watch?v=frQl8eoBIm8)
+<a alt="The Animals House of the Rising Sun Old School Computer Remix" href="http://www.youtube.com/watch?feature=player_embedded&v=w68qZ8JvBds
+" target="_blank"><img src="https://media.giphy.com/media/UQDVJzvYvphzZcEBa6/giphy.gif" 
+ width="444" height="332" border="10" /></a>
 
 <!--
 **DiegoFleitas/DiegoFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,4 @@
-### Gohans Whistle
-
-<a alt="The Animals House of the Rising Sun Old School Computer Remix" href="http://www.youtube.com/watch?feature=player_embedded&v=w68qZ8JvBds
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5BZPPPYXV9M
 " target="_blank"><img src="https://media.giphy.com/media/UQDVJzvYvphzZcEBa6/giphy.gif" 
  width="444" height="332" border="10" /></a>
 

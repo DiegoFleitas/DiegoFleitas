@@ -1,6 +1,6 @@
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5BZPPPYXV9M
-" target="_blank"><img src="https://media.giphy.com/media/UQDVJzvYvphzZcEBa6/giphy.gif" 
- width="444" height="332" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5BZPPPYXV9M&autoplay=1" target="_blank">
+ <img src="https://media.giphy.com/media/UQDVJzvYvphzZcEBa6/giphy.gif" width="444" height="332" border="10" />
+</a>
 
 <!--
 **DiegoFleitas/DiegoFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

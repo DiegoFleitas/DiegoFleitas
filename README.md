@@ -1,12 +1,12 @@
+[![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=diegofleitas&show_icons=true&theme=prussian&count_private=true)](https://github.com/DiegoFleitas)
+[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=DiegoFleitas&layout=compact&theme=prussian&count_private=true&langs_count=10)](https://github.com/DiegoFleitas)
+
 # Click me
 ↧↧↧↧↧↧↧↧↧↧↧↧↧↧↧↧↧↧  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5BZPPPYXV9M&autoplay=1" target="_blank">
  <img src="https://media.giphy.com/media/lSObAqHPgrKkD3P9a7/giphy.gif" width="444" height="332" border="10"/>
 </a>
-
-[![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=diegofleitas&show_icons=true&theme=prussian&count_private=true)](https://github.com/DiegoFleitas)
-[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=DiegoFleitas&layout=compact&theme=prussian&count_private=true&langs_count=10)](https://github.com/DiegoFleitas)
 
 
 <!--

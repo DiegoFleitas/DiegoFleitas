@@ -5,6 +5,11 @@
  <img src="https://media.giphy.com/media/lSObAqHPgrKkD3P9a7/giphy.gif" width="444" height="332" border="10"/>
 </a>
 
+### Basic overview
+[![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=diegofleitas&show_icons=true&theme=vue&count_private=true)](https://github.com/DiegoFleitas)<br>
+[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=DiegoFleitas&layout=compact&theme=vue&count_private=true&langs_count=10)](https://github.com/DiegoFleitas)
+
+
 <!--
 **DiegoFleitas/DiegoFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

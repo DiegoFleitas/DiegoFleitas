@@ -6,8 +6,8 @@
 </a>
 
 ### Basic overview
-[![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=diegofleitas&show_icons=true&theme=vue&count_private=true)](https://github.com/DiegoFleitas)<br>
-[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=DiegoFleitas&layout=compact&theme=vue&count_private=true&langs_count=10)](https://github.com/DiegoFleitas)
+[![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=diegofleitas&show_icons=true&theme=prussian&count_private=true)](https://github.com/DiegoFleitas)
+[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=DiegoFleitas&layout=compact&theme=prussian&count_private=true&langs_count=10)](https://github.com/DiegoFleitas)
 
 
 <!--

@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegofleitas" alt="diegofleitas" /></a> </p>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5BZPPPYXV9M&autoplay=1" target="_blank">
+<a href="rebrand.ly/r1ckr0l13r" target="_blank">
  <img src="https://media.giphy.com/media/lSObAqHPgrKkD3P9a7/giphy.gif" width="444" height="332" border="10"/>
 </a>
 

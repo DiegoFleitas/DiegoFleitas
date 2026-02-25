@@ -27,5 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:diego.fleitas68@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/diego-fleitas" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>

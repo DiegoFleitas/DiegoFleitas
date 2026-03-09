@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white" alt="Cursor"/>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/uruguay/USERNAME.svg)](https://user-badge.committers.top/uruguay/DiegoFleitas)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:diego.fleitas68@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
